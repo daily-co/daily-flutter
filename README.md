@@ -9,6 +9,7 @@ The **Daily Client SDK for Flutter** allows you to integrate video and audio cal
 - **Overview**: Visit Daily's [Flutter documentation](https://docs.daily.co/reference/flutter) for a comprehensive guide to the API and main methods.
 - **Demo App**: Check out the [daily-flutter-demo](https://github.com/daily-demos/daily-flutter-demo) repository for an example of how to use the SDK in a real application.
 - **SDK Reference**: Explore the complete SDK documentation [here](https://pub.dev/documentation/daily_flutter/latest/daily_flutter/CallClient-class.html).
+- **Changelog**: See the [version history](https://pub.dev/packages/daily_flutter/changelog) of the SDK.
 
 ---
 
